@@ -1,0 +1,4 @@
+interface:
+  display_name: "旅行纪念票根"
+  short_description: "将照片艺术化为行旅手记票根，支持飞机火车图标与自定义纪念文案"
+  default_prompt: "请用 $travel-ticket 将我上传的照片制作成旅行纪念票根。"
