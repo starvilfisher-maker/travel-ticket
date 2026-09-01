@@ -1,0 +1,25 @@
+# User material and generated artifacts
+output/
+input/
+inputs/
+uploads/
+private/
+tmp/
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.heic
+*.gif
+*.pdf
+# Credentials and local configuration
+.env
+.env.*
+*.pem
+*.key
+credentials*
+secrets*
+# OS / runtime
+.DS_Store
+__pycache__/
+.venv/
